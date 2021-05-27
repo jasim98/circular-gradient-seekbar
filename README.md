@@ -1,4 +1,4 @@
-# Circular Gradient Seekbar
+# Android Circular Gradient Seekbar
 
 Circular Gradient Seekbar is a library which implements custom circular seekbar with ease.
 
