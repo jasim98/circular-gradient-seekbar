@@ -1,0 +1,3 @@
+rootProject.name = "Circular Gradient SeekBar"
+include ':app'
+include ':CircularGradientSeekBar'
