@@ -2,6 +2,11 @@
 
 Circular Gradient Seekbar is a library which implements custom circular seekbar with ease.
 
+<div align="left">
+    <img src="screenshots/screenshot.jpeg" width="300px"</img> 
+    
+</div>
+
 ## Installation
 
 
